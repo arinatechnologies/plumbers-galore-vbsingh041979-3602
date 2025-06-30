@@ -1,0 +1,22 @@
+[
+  "professional plumber fixing kitchen sink",
+  "modern bathroom plumbing installation",
+  "emergency pipe repair in residential home",
+  "commercial building plumbing system installation",
+  "plumber working on water heater maintenance",
+  "residential bathroom renovation plumbing work",
+  "restaurant kitchen plumbing installation",
+  "hotel bathroom plumbing fixtures installation",
+  "outdoor irrigation system installation",
+  "shopping center plumbing infrastructure",
+  "smart home water monitoring system installation",
+  "emergency sewer line repair work",
+  "plumber inspecting residential plumbing system",
+  "modern faucet installation in luxury bathroom",
+  "commercial grade water filtration system",
+  "underground pipe installation project",
+  "high-rise building plumbing maintenance",
+  "historic home plumbing restoration work",
+  "energy efficient plumbing system installation",
+  "plumbing team working on large construction site"
+]
